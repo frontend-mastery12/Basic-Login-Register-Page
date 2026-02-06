@@ -49,7 +49,7 @@ In this video, you'll build a fully functional authentication system with login,
 - **Real-World Patterns** – Build production-ready authentication UI without backend
 
 ## 📽 Watch the Tutorial
-🎥 YouTube: [Your YouTube Link]
+🎥 YouTube: [https://youtu.be/3Tj9SsdGPLs]
 
 ## 📽 Live Preview
 🌐 Netlify: https://basic-login-register.netlify.app/
